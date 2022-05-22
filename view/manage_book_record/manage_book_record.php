@@ -43,7 +43,7 @@
               <li><a href="../login/librarian.php">Home</a></li>
 			  <li class="dropdown"><a href="#"><span>Menu</span> <i class="bi bi-chevron-down"></i></a>
                 <ul>
-                  <li><a href="manage_book_record.php">Manage Book Record</a></li>
+                  <li><a href="manage_book_record.php">Manage Book Recorddfv</a></li>
                   <li><a href="../manage_user/ManageUser.php">Manage User</a></li>
 				  <li><a href="../manageFineModule/manageFineModule.php">Manage Fine</a></li>
 				  <li><a href="../manage_reservation/managereserv.php">Manage Reservation</a></li>
